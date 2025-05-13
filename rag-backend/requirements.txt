@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langgraph
+chromadb
+pypdf2
+openai
+huggingface_hub
+unstructured
